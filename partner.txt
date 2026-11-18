@@ -1,1 +1,5 @@
+ HEAD
 This is my collaborator contribution.
+
+this is my collaborator contribution.
+ faee127 (Added partner contribution)
